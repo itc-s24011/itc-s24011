@@ -6,7 +6,7 @@
 <h3 align="center">私はITに熱意のある沖縄の専門学生です</h3>
 ![Uploading hello world.png…]()
 
-- 📝 I regularly write articles on [zenn](https://zenn.dev)
+- 📝 自分がよく開発で使うAIは [claude]([https://zenn.dev](https://claude.ai/new))
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hoge&show_icons=true&locale=en&layout=compact" alt="t-keshi" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hoge&show_icons=true&locale=en" alt="hoge" /></p>
