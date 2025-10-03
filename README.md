@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi :wave:, I'm ibuki gushiken</h1>
 <h3 align="center">私はITに熱意のある沖縄の専門学生です</h3>
-![Uploading hello world.png…]()
+![Uploading ai-assistant-svg.svg…]()
 
 
 - :memo: 自分がよく開発で使うAIは [claude](https://claude.ai/new)
