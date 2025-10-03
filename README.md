@@ -5,6 +5,9 @@
 <h1 align="center">Hi :wave:, I'm ibuki gushiken</h1>
 <h3 align="center">私はITに熱意のある沖縄の専門学生です</h3>
 
+- :memo: 自分がよく開発で使うAIは [claude](https://claude.ai/new)
+- :memo:　⇓は　[claude](https://claude.ai/new)　で作成したAI
+
 ![ai-assistant-svg](https://github.com/user-attachments/assets/4568fb9a-8767-49ca-9ca7-b0d481c58b9b)<svg width="600" height="400" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
@@ -87,9 +90,6 @@
   <text x="300" y="360" font-family="'Segoe UI', Arial, sans-serif" font-size="32" fill="white" text-anchor="middle" font-weight="bold" style="text-shadow: 0 2px 10px rgba(0,0,0,0.3)">AIアシスタント</text>
   <text x="300" y="385" font-family="'Segoe UI', Arial, sans-serif" font-size="18" fill="rgba(255,255,255,0.9)" text-anchor="middle">いつでもお手伝いします</text>
 </svg>
-
-
-- :memo: 自分がよく開発で使うAIは [claude](https://claude.ai/new)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hoge&show_icons=true&locale=en&layout=compact" alt="t-keshi" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hoge&show_icons=true&locale=en" alt="hoge" /></p>
