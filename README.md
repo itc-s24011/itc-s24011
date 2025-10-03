@@ -3,7 +3,7 @@
 <img width="1366" height="768" alt="hello world" src="https://github.com/user-attachments/assets/07d35393-1ddd-42fb-94c1-ac0c1ca813d5" />
 
 <h1 align="center">Hi 👋, I'm ibuki gushiken</h1>
-<h3 align="center">A passionate developer in Japan</h3>
+<h3 align="center">私はITに熱意のある沖縄の専門学生です</h3>
 ![Uploading hello world.png…]()
 
 - 📝 I regularly write articles on [zenn](https://zenn.dev)
