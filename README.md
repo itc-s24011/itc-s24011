@@ -1,9 +1,10 @@
 ## Hi there 👋
 おはようございます
-![Uploading hello world.png…]()
+<img width="1366" height="768" alt="hello world" src="https://github.com/user-attachments/assets/07d35393-1ddd-42fb-94c1-ac0c1ca813d5" />
 
 <h1 align="center">Hi 👋, I'm ibuki gushiken</h1>
 <h3 align="center">A passionate developer in Japan</h3>
+![Uploading hello world.png…]()
 
 - 📝 I regularly write articles on [zenn](https://zenn.dev)
 
