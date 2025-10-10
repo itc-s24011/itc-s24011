@@ -77,28 +77,12 @@ ClaudeでこのSVGを作成しました！AIを活用した開発を実践して
 画像を表示
 
 </div>
-<div align="center">
-  <svg width="400" height="200" xmlns="http://www.w3.org/2000/svg">
-    <defs>
-      <linearGradient id="windGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-        <stop offset="0%" style="stop-color:#a18cd1;stop-opacity:1" />
-        <stop offset="100%" style="stop-color:#fbc2eb;stop-opacity:1" />
-      </linearGradient>
-    </defs>
-    <g stroke="url(#windGradient)" stroke-width="3" fill="none">
-      <path d="M 0 50 Q 50 20, 100 50 T 200 50 T 300 50 T 400 50">
-        <animateTransform attributeName="transform" type="translate" from="-400 0" to="0 0" dur="3s" repeatCount="indefinite" />
-      </path>
-      <path d="M 0 100 Q 60 70, 120 100 T 240 100 T 360 100 T 480 100">
-        <animateTransform attributeName="transform" type="translate" from="-480 0" to="0 0" dur="4s" repeatCount="indefinite" />
-      </path>
-      <path d="M 0 150 Q 40 130, 80 150 T 160 150 T 240 150 T 320 150">
-        <animateTransform attributeName="transform" type="translate" from="-320 0" to="0 0" dur="2s" repeatCount="indefinite" />
-      </path>
-    </g>
-    <text x="200" y="190" font-family="Arial" font-size="18" fill="#ccc" text-anchor="middle">風が吹いています...</text>
-  </svg>
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://your-repo/img/git-status-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://your-repo/img/git-status-light.svg">
+  <img alt="git status animation" src="https://your-repo/img/git-status-dark.svg">
+</picture>
+
 <div align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/> </div> <div align="center"> <i>⭐️ From <a href="https://github.com/yourusername">Ibuki Gushiken</a></i> </div>
 🎨 Made with
 <div align="center">
