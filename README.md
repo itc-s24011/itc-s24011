@@ -79,13 +79,7 @@ ClaudeでこのSVGを作成しました！AIを活用した開発を実践して
 </div>
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/itc-s24011/itc-s24011/main/img/okinawa.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/itc-s24011/itc-s24011/main/img/sakura.svg">
-  <img alt="沖縄テーマアニメーション" src="https://raw.githubusercontent.com/itc-s24011/itc-s24011/main/img/okinawa.svg">
-</picture>
-
-<p>🌺 沖縄の海をイメージしたコントリビューション 🏝️</p>
+![3D Contribution](./profile-3d-contrib/profile-gitblock.svg)
 
 </div>
 
