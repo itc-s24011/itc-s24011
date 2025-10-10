@@ -54,7 +54,7 @@ ClaudeでこのSVGを作成しました！AIを活用した開発を実践して
 画像を表示
 
 </div>
-<div align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/> </div> <div align="center"> <i>⭐️ From <a href="https://github.com/yourusername">Ibuki Gushiken</a></i> </div>
+<div align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/> </div> <div align="center"> <i>⭐️ From <a href="https://github.com/yourusername">itc-s24011</a></i> </div>
 🎨 Made with
 <div align="center">
 画像を表示
