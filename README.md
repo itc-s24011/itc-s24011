@@ -83,6 +83,13 @@ ClaudeでこのSVGを作成しました！AIを活用した開発を実践して
   <img alt="git status animation" src="https://raw.githubusercontent.com/ibuki0402/ibuki0402/main/img/git-status-dark.svg">
 </picture>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/your-username/your-repo/main/img/git-status-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/your-username/your-repo/main/img/git-status-light.svg">
+  <img alt="git status animation" src="https://raw.githubusercontent.com/your-username/your-repo/main/img/git-status-dark.svg">
+</picture>
+
+
 <div align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/> </div> <div align="center"> <i>⭐️ From <a href="https://github.com/yourusername">Ibuki Gushiken</a></i> </div>
 🎨 Made with
 <div align="center">
