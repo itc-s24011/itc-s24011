@@ -77,11 +77,17 @@ ClaudeでこのSVGを作成しました！AIを活用した開発を実践して
 画像を表示
 
 </div>
+<div align="center">
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/obregonia1/obregonia1/master/img/snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/obregonia1/obregonia1/master/img/snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/obregonia1/obregonia1/master/img/snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/itc-s24011/itc-s24011/main/img/okinawa.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/itc-s24011/itc-s24011/main/img/sakura.svg">
+  <img alt="沖縄テーマアニメーション" src="https://raw.githubusercontent.com/itc-s24011/itc-s24011/main/img/okinawa.svg">
 </picture>
+
+<p>🌺 沖縄の海をイメージしたコントリビューション 🏝️</p>
+
+</div>
 
 <div align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/> </div> <div align="center"> <i>⭐️ From <a href="https://github.com/yourusername">Ibuki Gushiken</a></i> </div>
 🎨 Made with
