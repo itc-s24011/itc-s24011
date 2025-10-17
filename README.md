@@ -10,22 +10,6 @@ Hi there 👋
 📍 Location: 沖縄、日本
 🛠️ Tech Stack
 <div align="center">
-Languages
-画像を表示
-画像を表示
-画像を表示
-画像を表示
-
-Frameworks & Libraries
-画像を表示
-画像を表示
-画像を表示
-
-Tools & Platforms
-画像を表示
-画像を表示
-画像を表示
-画像を表示
 
 </div>
 🤖 AI開発サポート
