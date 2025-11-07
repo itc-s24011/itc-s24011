@@ -3,7 +3,7 @@
 <div align="center"> <img width="100%" alt="hello world" src="https://github.com/user-attachments/assets/07d35393-1ddd-42fb-94c1-ac0c1ca813d5" /> </div><p align="center"> <img src="https://komarev.com/ghpvc/?username=itc-s24011&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /> <img src="https://img.shields.io/github/followers/itc-s24011?label=Followers&style=social" alt="followers" /> </p>
 <h1>自己紹介</h1>
 <a>名前　具志堅　維吹</a>
-IT-college-okinawa
+<a>IT-college-okinawa</a>
 3
 <div align="center">
 
