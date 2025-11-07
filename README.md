@@ -149,6 +149,5 @@ ClaudeでこのSVGを作成しました！AIを活用した開発を実践して
 🎨 Made with
 <div align="center">
 [![My Next Project](https://img.shields.io/badge/My_Next_Project-45B7D1?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://github.com/itc-s24011/my-next-project2)
-https://github.com/itc-s24011/my-next-project2
 
 </div>
