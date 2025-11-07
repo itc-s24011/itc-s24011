@@ -133,7 +133,7 @@ ClaudeでこのSVGを作成しました！AIを活用した開発を実践して
 </picture>
 
  <div align="center"> <i>⭐️ From <a href="https://github.com/itc-s24011">Ibuki Gushiken</a></i> </div>
-<h2>自分が作った作品！</h2>
+<h1>自分が作った作品！</h1>
 <div align="center">
   <a href="https://github.com/itc-s24011/my-next-project2">
     <img src="https://img.shields.io/badge/My_Next_Project-45B7D1?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="My Next Project">
@@ -149,9 +149,16 @@ ClaudeでこのSVGを作成しました！AIを活用した開発を実践して
 </div>
 
 <div align="center">
-  <h1>自分が使用する言語</h1>
+  <h2>自分が使用する言語</h2>
   
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
   
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+</div>
+<div align="center">
+  <h2>自分が学んでいる言語</h2>
+  
+  ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 </div>
