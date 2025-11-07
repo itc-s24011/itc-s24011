@@ -151,4 +151,7 @@ ClaudeでこのSVGを作成しました！AIを活用した開発を実践して
   <a href="https://github.com/itc-s24011/my-next-project2">
     <img src="https://img.shields.io/badge/My_Next_Project-45B7D1?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="My Next Project">
   </a>
+  <a href="https://github.com/itc-s24011/my-weather-app">
+    <img src="https://img.shields.io/badge/My_Weather-App-FF6B6B?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="My_Weather-App">
+  </a>
 </div>
