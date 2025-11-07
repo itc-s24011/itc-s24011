@@ -126,8 +126,6 @@ ClaudeでこのSVGを作成しました！AIを活用した開発を実践して
 #39d353"/> <text x="150" y="170" font-family="'Segoe UI', Arial, sans-serif" font-size="12" fill="
 #8b949e">More</text>
 
-<!-- Stats --> <text x="850" y="170" font-family="'Segoe UI', Arial, sans-serif" font-size="12" fill="#39d353" text-anchor="end" font-weight="bold"> <animate attributeName="opacity" values="1;0.5;1" dur="2s" repeatCount="indefinite"/> Coding everyday! 💪 </text> </svg> </div>
-
 </div>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/obregonia1/obregonia1/master/img/snake-dark.svg">
