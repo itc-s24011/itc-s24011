@@ -148,7 +148,7 @@ ClaudeでこのSVGを作成しました！AIを活用した開発を実践して
 <div align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/> </div> <div align="center"> <i>⭐️ From <a href="https://github.com/yourusername">Ibuki Gushiken</a></i> </div>
 🎨 Made with
 <div align="center">
-[![表示名](https://img.shields.io/badge/表示名-45B7D1?style=for-the-badge&logo=アイコン名&logoColor=white)]([https://github.com/itc-s24011/my-next-project2])
+[![My Next Project](https://img.shields.io/badge/My_Next_Project-45B7D1?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://github.com/itc-s24011/my-next-project2)
 https://github.com/itc-s24011/my-next-project2
 
 </div>
