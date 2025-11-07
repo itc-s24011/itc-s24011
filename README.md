@@ -7,7 +7,7 @@
   <!-- アニメーションヘッダー -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hello!%20I'm%20Ibuki&fontSize=50&fontColor=fff&animation=fadeIn" />
   
-  <h2>🙋‍♂️ 具志堅 維吹</h2>
+  <h2>👤 具志堅 維吹</h2>
   
   <p>
     <img src="https://img.shields.io/badge/🏫_IT_College_Okinawa-FF6B6B?style=for-the-badge" alt="IT College Okinawa">
