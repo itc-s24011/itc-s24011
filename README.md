@@ -159,7 +159,10 @@ ClaudeでこのSVGを作成しました！AIを活用した開発を実践して
   <a href="https://github.com/itc-s24011/s24KotlinExam">
     <img src="https://img.shields.io/badge/S24KotlinExam-8B5CF6?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="S24KotlinExam">
   </a>
+</div>
 
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
+<div align="center">
+  <h1>自分が使用する言語</h1>
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 </div>
