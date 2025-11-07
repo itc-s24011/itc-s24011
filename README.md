@@ -127,16 +127,6 @@ ClaudeでこのSVGを作成しました！AIを活用した開発を実践して
 #8b949e">More</text>
 
 <!-- Stats --> <text x="850" y="170" font-family="'Segoe UI', Arial, sans-serif" font-size="12" fill="#39d353" text-anchor="end" font-weight="bold"> <animate attributeName="opacity" values="1;0.5;1" dur="2s" repeatCount="indefinite"/> Coding everyday! 💪 </text> </svg> </div>
-💼 Current Projects
-🔨 Web開発の学習プロジェクト
-🤖 AIを活用した開発ツールの実験
-📚 技術ブログの執筆（準備中）
-📫 Connect with Me
-<div align="center">
-画像を表示
-画像を表示
-画像を表示
-画像を表示
 
 </div>
 <picture>
