@@ -127,7 +127,7 @@ ClaudeでこのSVGを作成しました！AIを活用した開発を実践して
 
 🏆 GitHub Trophies
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=itc-s24011&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=itc-s24011&theme=radical&no-frame=true&column=6" alt="GitHub Trophies" />
 </div>
 📈 Contribution Graph
 <div align="center">
