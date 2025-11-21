@@ -125,11 +125,14 @@ ClaudeでこのSVGを作成しました！AIを活用した開発を実践して
   </picture>
 </div>
 
-🏆 GitHub Trophies
+🏆 GitHub Profile Summary
 <div align="center">
-  
-[![trophy](https://github-profile-trophy.vercel.app/?username=itc-s24011&theme=tokyonight&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=itc-s24011&theme=tokyonight" alt="Profile Details" />
+</div>
 
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=itc-s24011&theme=tokyonight" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=itc-s24011&theme=tokyonight" alt="Most Commit Language" />
 </div>
 📈 Contribution Graph
 <div align="center">
