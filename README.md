@@ -163,10 +163,7 @@ ClaudeでこのSVGを作成しました！AIを活用した開発を実践して
   </a>
 </div>
 
-<h2>保有資格!</h2>
-<div align="center">
-
-<h2>🎓 保有資格 & スキル認定</h2>
+<h2>保有資格 & スキル認定！</h2>
 <div align="center">
 
 ### 🔐 セキュリティ
@@ -205,7 +202,6 @@ ClaudeでこのSVGを作成しました！AIを活用した開発を実践して
 <img src="https://img.shields.io/badge/最新取得-令和7年8月26日-764BA2?style=for-the-badge&logo=calendar&logoColor=white" alt="最新取得">
 </p>
 
-</div>
 </div>
 
 <div align="center">
