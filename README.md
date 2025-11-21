@@ -109,6 +109,9 @@ ClaudeでこのSVGを作成しました！AIを活用した開発を実践して
   <text x="300" y="385" font-family="'Segoe UI', Arial, sans-serif" font-size="18" fill="rgba(255,255,255,0.9)" text-anchor="middle">いつでもお手伝いします</text>
 </svg>
 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=40&fontColor=fff&animation=twinkling" />
+</div>
 
 </div>
 📊 GitHub Stats
