@@ -3,6 +3,10 @@
   
   <h2>👤 具志堅 維吹</h2>
 
+  <div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=667EEA&center=true&vCenter=true&repeat=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;AI+Enthusiast+%F0%9F%A4%96;Always+Learning+%F0%9F%93%9A;IT+College+Student+%F0%9F%8E%93" alt="Typing SVG" />
+</div>
+
 <div align="center"> <img width="100%" alt="hello world" src="https://github.com/user-attachments/assets/07d35393-1ddd-42fb-94c1-ac0c1ca813d5" /> </div><p align="center"> <img src="https://komarev.com/ghpvc/?username=itc-s24011&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /> <img src="https://img.shields.io/github/followers/itc-s24011?label=Followers&style=social" alt="followers" /> </p>
 
 <div align="center">
@@ -153,10 +157,6 @@ ClaudeでこのSVGを作成しました！AIを活用した開発を実践して
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/obregonia1/obregonia1/master/img/snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/obregonia1/obregonia1/master/img/snake.svg">
 </picture>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
 
  <div align="center"> <i>⭐️ From <a href="https://github.com/itc-s24011">Ibuki Gushiken</a></i> </div>
 
