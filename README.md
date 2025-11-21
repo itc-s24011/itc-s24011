@@ -140,10 +140,6 @@ ClaudeでこのSVGを作成しました！AIを活用した開発を実践して
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=itc-s24011&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
-⭐ Star History
-<div align="center">
-  <img src="https://api.star-history.com/svg?repos=itc-s24011/my-next-project2,itc-s24011/my-weather-app&type=Date&theme=dark" alt="Star History" />
-</div>
 📈 Contribution Graph
 <div align="center">
   <picture>
