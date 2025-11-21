@@ -164,7 +164,7 @@ ClaudeでこのSVGを作成しました！AIを活用した開発を実践して
     <img src="https://img.shields.io/badge/Temperature-90ee90?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Temperature">
   </a>
 </div>
-f0ffff
+
 <div align="center">
   <h1>自分が使用する言語・ツール</h1>
   
