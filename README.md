@@ -165,25 +165,6 @@ ClaudeでこのSVGを作成しました！AIを活用した開発を実践して
 
 <h2>保有資格!</h2>
 <div align="center">
-  
-<h2>自分が作った作品！</h2>
-<div align="center">
-  <a href="https://github.com/itc-s24011/my-next-project2">
-    <img src="https://img.shields.io/badge/My_Next_Project-45B7D1?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="My Next Project">
-  </a>
-  
-  <a href="https://github.com/itc-s24011/my-weather-app">
-    <img src="https://img.shields.io/badge/My_Weather-App-FF6B6B?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="My_Weather-App">
-  </a>
-  
-  <a href="https://github.com/itc-s24011/s24KotlinExam">
-    <img src="https://img.shields.io/badge/S24KotlinExam-8B5CF6?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="S24KotlinExam">
-  </a>
-
-  <a href="https://github.com/itc-s24011/temperature">
-    <img src="https://img.shields.io/badge/Temperature-90ee90?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Temperature">
-  </a>
-</div>
 
 <h2>🎓 保有資格 & スキル認定</h2>
 <div align="center">
