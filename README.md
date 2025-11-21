@@ -165,36 +165,15 @@ ClaudeでこのSVGを作成しました！AIを活用した開発を実践して
 
 <h2>保有資格!</h2>
 <div align="center">
-  <table>
-    <tr>
-      <td align="center" width="200">
-        <img src="https://img.shields.io/badge/📜-SEA/J Certified Security Basic Master-FF6B6B?style=for-the-badge" alt="資格1"><br>
-        <sub><b>取得年月: 2024年4月</b></sub>
-      </td>
-      <td align="center" width="200">
-        <img src="https://img.shields.io/badge/📜-資格名-45B7D1?style=for-the-badge" alt="資格2"><br>
-        <sub><b>取得年月: 2024年6月</b></sub>
-      </td>
-      <td align="center" width="200">
-        <img src="https://img.shields.io/badge/📜-資格名-8B5CF6?style=for-the-badge" alt="資格3"><br>
-        <sub><b>取得年月: 2024年9月</b></sub>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="200">
-        <img src="https://img.shields.io/badge/📜-資格名-FFA500?style=for-the-badge" alt="資格4"><br>
-        <sub><b>取得年月: 2024年11月</b></sub>
-      </td>
-      <td align="center" width="200">
-        <img src="https://img.shields.io/badge/📜-資格名-90EE90?style=for-the-badge" alt="資格5"><br>
-        <sub><b>取得年月: 2025年1月</b></sub>
-      </td>
-      <td align="center" width="200">
-        <img src="https://img.shields.io/badge/📜-勉強中-CCCCCC?style=for-the-badge" alt="勉強中"><br>
-        <sub><b>目標: 2025年3月</b></sub>
-      </td>
-    </tr>
-  </table>
+  
+![SEA/J Certified Security Basic Master](https://img.shields.io/badge/🔐_SEA/J_Certified_Security_Basic_Master-FF6B6B?style=for-the-badge&logoColor=white)
+![CompTIA IT Fundamentals](https://img.shields.io/badge/💻_CompTIA_IT_Fundamentals_(ITF+)-45B7D1?style=for-the-badge&logoColor=white)
+
+![インターネット検定 ドットコムマスター](https://img.shields.io/badge/🌐_ドットコムマスター_ベーシック-8B5CF6?style=for-the-badge&logoColor=white)
+
+![Python Entry](https://img.shields.io/badge/🐍_Python_実践プログラミング技術者試験_Entry-FFA500?style=for-the-badge&logo=python&logoColor=white)
+![Java 3級](https://img.shields.io/badge/☕_Java_プログラミング能力認定試験_3級-E76F00?style=for-the-badge&logo=java&logoColor=white)
+
 </div>
 
 <div align="center">
