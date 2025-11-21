@@ -140,9 +140,9 @@ ClaudeでこのSVGを作成しました！AIを活用した開発を実践して
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=itc-s24011&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
-📊 Detailed Metrics
+👀 Profile Views
 <div align="center">
-  <img src="https://metrics.lecoq.io/itc-s24011?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&lines=1&achievements=1&habits=1&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.trim=false&config.timezone=Asia%2FTokyo" alt="Metrics" width="600" />
+  <img src="https://visitcount.itsvg.in/api?id=itc-s24011&label=Profile%20Views&color=6&icon=5&pretty=true" alt="Profile Views" />
 </div>
 📈 Contribution Graph
 <div align="center">
