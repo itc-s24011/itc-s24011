@@ -163,6 +163,40 @@ ClaudeでこのSVGを作成しました！AIを活用した開発を実践して
   </a>
 </div>
 
+<h2>保有資格!</h2>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="200">
+        <img src="https://img.shields.io/badge/📜-資格名-FF6B6B?style=for-the-badge" alt="資格1"><br>
+        <sub><b>取得年月: 2024年4月</b></sub>
+      </td>
+      <td align="center" width="200">
+        <img src="https://img.shields.io/badge/📜-資格名-45B7D1?style=for-the-badge" alt="資格2"><br>
+        <sub><b>取得年月: 2024年6月</b></sub>
+      </td>
+      <td align="center" width="200">
+        <img src="https://img.shields.io/badge/📜-資格名-8B5CF6?style=for-the-badge" alt="資格3"><br>
+        <sub><b>取得年月: 2024年9月</b></sub>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="200">
+        <img src="https://img.shields.io/badge/📜-資格名-FFA500?style=for-the-badge" alt="資格4"><br>
+        <sub><b>取得年月: 2024年11月</b></sub>
+      </td>
+      <td align="center" width="200">
+        <img src="https://img.shields.io/badge/📜-資格名-90EE90?style=for-the-badge" alt="資格5"><br>
+        <sub><b>取得年月: 2025年1月</b></sub>
+      </td>
+      <td align="center" width="200">
+        <img src="https://img.shields.io/badge/📜-勉強中-CCCCCC?style=for-the-badge" alt="勉強中"><br>
+        <sub><b>目標: 2025年3月</b></sub>
+      </td>
+    </tr>
+  </table>
+</div>
+
 <div align="center">
   <h1>自分が使用する言語・ツール</h1>
   
