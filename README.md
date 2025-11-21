@@ -161,10 +161,10 @@ ClaudeでこのSVGを作成しました！AIを活用した開発を実践して
   </a>
 
   <a href="https://github.com/itc-s24011/temperature">
-    <img src="https://img.shields.io/badge/Temperature-f0ffff?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Temperature">
+    <img src="https://img.shields.io/badge/Temperature-90ee90?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Temperature">
   </a>
 </div>
-
+f0ffff
 <div align="center">
   <h1>自分が使用する言語・ツール</h1>
   
