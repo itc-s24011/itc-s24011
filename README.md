@@ -167,12 +167,19 @@ ClaudeでこのSVGを作成しました！AIを活用した開発を実践して
 <div align="center">
   
 ![SEA/J Certified Security Basic Master](https://img.shields.io/badge/🔐_SEA/J_Certified_Security_Basic_Master-FF6B6B?style=for-the-badge&logoColor=white)
+![取得日](https://img.shields.io/badge/取得-令和6年8月22日-FF6B6B?style=flat-square)
+
 ![CompTIA IT Fundamentals](https://img.shields.io/badge/💻_CompTIA_IT_Fundamentals_(ITF+)-45B7D1?style=for-the-badge&logoColor=white)
+![取得日](https://img.shields.io/badge/取得-令和6年8月23日-45B7D1?style=flat-square)
 
 ![インターネット検定 ドットコムマスター](https://img.shields.io/badge/🌐_ドットコムマスター_ベーシック-8B5CF6?style=for-the-badge&logoColor=white)
+![取得日](https://img.shields.io/badge/取得-令和6年11月29日-8B5CF6?style=flat-square)
 
 ![Python Entry](https://img.shields.io/badge/🐍_Python_実践プログラミング技術者試験_Entry-FFA500?style=for-the-badge&logo=python&logoColor=white)
+![取得日](https://img.shields.io/badge/取得-令和7年5月8日-FFA500?style=flat-square)
+
 ![Java 3級](https://img.shields.io/badge/☕_Java_プログラミング能力認定試験_3級-E76F00?style=for-the-badge&logo=java&logoColor=white)
+![取得日](https://img.shields.io/badge/取得-令和7年8月26日-E76F00?style=flat-square)
 
 </div>
 
