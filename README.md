@@ -154,6 +154,10 @@ ClaudeでこのSVGを作成しました！AIを活用した開発を実践して
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/obregonia1/obregonia1/master/img/snake.svg">
 </picture>
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
+
  <div align="center"> <i>⭐️ From <a href="https://github.com/itc-s24011">Ibuki Gushiken</a></i> </div>
 
 <div align="center">
