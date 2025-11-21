@@ -168,7 +168,7 @@ ClaudeでこのSVGを作成しました！AIを活用した開発を実践して
   <table>
     <tr>
       <td align="center" width="200">
-        <img src="https://img.shields.io/badge/📜-資格名-FF6B6B?style=for-the-badge" alt="資格1"><br>
+        <img src="https://img.shields.io/badge/📜-SEA/J Certified Security Basic Master-FF6B6B?style=for-the-badge" alt="資格1"><br>
         <sub><b>取得年月: 2024年4月</b></sub>
       </td>
       <td align="center" width="200">
