@@ -109,11 +109,8 @@ ClaudeでこのSVGを作成しました！AIを活用した開発を実践して
   <text x="300" y="385" font-family="'Segoe UI', Arial, sans-serif" font-size="18" fill="rgba(255,255,255,0.9)" text-anchor="middle">いつでもお手伝いします</text>
 </svg>
 
-🏙️ GitHub Contribution 3D Skyline
 <div align="center">
-  <a href="https://skyline.github.com/itc-s24011/2024">
-    <img src="https://img.shields.io/badge/View_My_3D_Skyline-667EEA?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Skyline">
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=itc-s24011&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=percentile&card_width=500&animation=true" alt="Animated Stats" />
 </div>
 
 </div>
