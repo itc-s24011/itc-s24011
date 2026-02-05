@@ -188,6 +188,18 @@ ClaudeでこのSVGを作成しました！AIを活用した開発を実践して
         </a>
       </td>
     </tr>
+    <tr>
+      <td align="center" width="250">
+        <a href="https://github.com/itc-s24011/Book_Manager_Kimatu">
+          <img src="https://img.shields.io/badge/Book_Manager_Kimatu-8B5CF6?style=for-the-badge&logo=kotlin&logoColor=white" alt="Book_Manager_Kimatu">
+        </a>
+      </td>
+      <td align="center" width="250">
+        <a href="https://github.com/itc-s24011/ItColTaskReportMonthly">
+          <img src="https://img.shields.io/badge/ItColTaskReportMonthly-90ee90?style=for-the-badge&logo=react&logoColor=white" alt="ItColTaskReportMonthly">
+        </a>
+      </td>
+    </tr>
   </table>
 </div>
 
