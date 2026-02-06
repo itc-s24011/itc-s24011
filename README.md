@@ -40,21 +40,12 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=itc-s24011&show_icons=true&theme=tokyonight&hide_border=true&locale=en&include_all_commits=true&count_private=true&rank_icon=github">
-    <img src="https://github-readme-stats.vercel.app/api?username=itc-s24011&show_icons=true&theme=tokyonight&hide_border=true&locale=en&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub Stats" height="170"/>
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=itc-s24011&show_icons=true&theme=tokyonight&hide_border=true&locale=en&layout=compact&langs_count=8">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=itc-s24011&show_icons=true&theme=tokyonight&hide_border=true&locale=en&layout=compact&langs_count=8" alt="Top Languages" height="170"/>
-  </picture>
+  <img src="https://github-readme-stats.vercel.app/api?username=itc-s24011&show_icons=true&theme=tokyonight&hide_border=true&locale=en&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub Stats" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=itc-s24011&show_icons=true&theme=tokyonight&hide_border=true&locale=en&layout=compact&langs_count=8" alt="Top Languages" height="170"/>
 </div>
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=itc-s24011&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=667EEA&fire=667EEA&currStreakLabel=667EEA">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=itc-s24011&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=667EEA&fire=667EEA&currStreakLabel=667EEA" alt="GitHub Streak" />
-  </picture>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=itc-s24011&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=667EEA&fire=667EEA&currStreakLabel=667EEA" alt="GitHub Streak" />
 </div>
 
 ## 🏆 GitHub Profile Summary
@@ -79,17 +70,12 @@
 ## 📈 Contribution Graph
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=itc-s24011&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=667eea&line=764ba2&point=ffffff&area=true&custom_title=Contribution%20Activity%20Graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=itc-s24011&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=667eea&line=764ba2&point=ffffff&area=true&custom_title=Contribution%20Activity%20Graph" alt="Contribution Graph" />
-  </picture>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=itc-s24011&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=667eea&line=764ba2&point=ffffff&area=true&custom_title=Contribution%20Activity%20Graph" alt="Contribution Graph" />
 </div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/obregonia1/obregonia1/master/img/snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/obregonia1/obregonia1/master/img/snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/obregonia1/obregonia1/master/img/snake.svg">
-</picture>
+<div align="center">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/itc-s24011/itc-s24011/output/github-contribution-grid-snake-dark.svg">
+</div>
 
 <div align="center">
   <i>⭐️ From <a href="https://github.com/itc-s24011">Ibuki Gushiken</a></i>
@@ -236,3 +222,59 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 </div>
+
+---
+
+## 📊 データベース設計
+
+### author (著者)
+
+| カラム名 | データ型 | Null | デフォルト値 | インデックス | 備考 |
+|---------|---------|------|------------|------------|------|
+| id | VARCHAR(36) | NOT NULL | UUID V70 | PRIMARY KEY | 主キー |
+| name | VARCHAR(128) | NOT NULL | | INDEX | 著者名 |
+| is_deleted | BOOLEAN | NOT NULL | FALSE | | 削除フラグ |
+
+### publisher (出版社)
+
+| カラム名 | データ型 | Null | デフォルト値 | インデックス | 備考 |
+|---------|---------|------|------------|------------|------|
+| id | VARCHAR(36) | NOT NULL | UUID V70 | PRIMARY KEY | 主キー |
+| name | VARCHAR(128) | NOT NULL | | INDEX | 出版社名 |
+| is_deleted | BOOLEAN | NOT NULL | FALSE | | 削除フラグ |
+
+### user (利用者)
+
+| カラム名 | データ型 | Null | デフォルト値 | インデックス | 備考 |
+|---------|---------|------|------------|------------|------|
+| id | VARCHAR(36) | NOT NULL | UUID V70 | PRIMARY KEY | 主キー |
+| email | VARCHAR(254) | NOT NULL | | UNIQUE | メールアドレス |
+| name | VARCHAR(512) | NOT NULL | | | 名前 |
+| password | VARCHAR(256) | NOT NULL | | | パスワードハッシュ |
+| is_admin | BOOLEAN | NOT NULL | FALSE | | 管理者フラグ |
+| created_at | DATETIME | NOT NULL | NOW() | | 登録日 |
+| updated_at | DATETIME | NOT NULL | | | 更新日 |
+| is_deleted | BOOLEAN | NOT NULL | FALSE | | 削除フラグ |
+
+### book (書籍)
+
+| カラム名 | データ型 | Null | デフォルト値 | インデックス | 備考 |
+|---------|---------|------|------------|------------|------|
+| isbn | BIGINT UNSIGNED | NOT NULL | NULL | PRIMARY KEY | ISBN13 |
+| title | VARCHAR(512) | NOT NULL | | | 書籍名 |
+| author_id | VARCHAR(36) | NOT NULL | | [REF(author.id)](#author-著者) | 著者ID |
+| publisher_id | VARCHAR(36) | NOT NULL | | [REF(publisher.id)](#publisher-出版社) | 出版社ID |
+| publication_year | INT UNSIGNED | NOT NULL | | | 出版年 |
+| publication_month | TINYINT UNSIGNED | NOT NULL | | | 出版月(1~12) |
+| is_deleted | BOOLEAN | NOT NULL | FALSE | | 削除フラグ |
+
+### rental_log (貸出記録)
+
+| カラム名 | データ型 | Null | デフォルト値 | インデックス | 備考 |
+|---------|---------|------|------------|------------|------|
+| id | VARCHAR(36) | NOT NULL | UUID v70 | PRIMARY KEY | 主キー |
+| book_isbn | BIGINT UNSIGNED | NOT NULL | | [REF(book.isbn)](#book-書籍) | 書籍ID |
+| user_id | VARCHAR(36) | NOT NULL | | [REF(user.id)](#user-利用者) | 利用者ID |
+| checkout_date | DATETIME | NOT NULL | | | 貸出日 |
+| due_date | DATETIME | NOT NULL | | | 返却期限 |
+| returned_date | DATETIME | | NULL | | 返却日 |
