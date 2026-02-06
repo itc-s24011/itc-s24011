@@ -159,52 +159,6 @@ ClaudeでこのSVGを作成しました！AIを活用した開発を実践して
 
  <div align="center"> <i>⭐️ From <a href="https://github.com/itc-s24011">Ibuki Gushiken</a></i> </div>
 
-<div align="center">
- <h2 align="center">自分が作った作品！</h2>
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="250">
-        <a href="https://github.com/itc-s24011/my-next-project2">
-          <img src="https://img.shields.io/badge/My_Next_Project-45B7D1?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="My Next Project">
-        </a>
-      </td>
-      <td align="center" width="250">
-        <a href="https://github.com/itc-s24011/my-weather-app">
-          <img src="https://img.shields.io/badge/My_Weather_App-FF6B6B?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="My_Weather-App">
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="250">
-        <a href="https://github.com/itc-s24011/s24KotlinExam">
-          <img src="https://img.shields.io/badge/S24KotlinExam-8B5CF6?style=for-the-badge&logo=kotlin&logoColor=white" alt="S24KotlinExam">
-        </a>
-      </td>
-      <td align="center" width="250">
-        <a href="https://github.com/itc-s24011/temperature">
-          <img src="https://img.shields.io/badge/Temperature-90ee90?style=for-the-badge&logo=react&logoColor=white" alt="Temperature">
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="250">
-        <a href="https://github.com/itc-s24011/Book_Manager_Kimatu">
-          <img src="https://img.shields.io/badge/Book_Manager_Kimatu-FFA500?style=for-the-badge&logo=kotlin&logoColor=white" alt="Book_Manager_Kimatu">
-        </a>
-      </td>
-      <td align="center" width="250">
-        <a href="https://github.com/itc-s24011/ItColTaskReportMonthly">
-          <img src="https://img.shields.io/badge/ItColTaskReportMonthly-E76F00?style=for-the-badge&logo=react&logoColor=white" alt="ItColTaskReportMonthly">
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br>
-
 <br>
 
 ---
